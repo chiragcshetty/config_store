@@ -1,1 +1,1 @@
-1 workload0 localhost:50056
+1 workload0 us6.default.svc.cluster.local:50049

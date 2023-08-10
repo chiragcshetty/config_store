@@ -1,1 +1,1 @@
-2 none localhost:50056
+2 none us6.default.svc.cluster.local:50049
